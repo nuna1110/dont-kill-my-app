@@ -2,7 +2,7 @@
 manufacturer:
     - tecno
 
----
+---M
 
 ## Power Saving Management
 
